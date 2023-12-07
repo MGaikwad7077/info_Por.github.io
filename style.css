@@ -357,7 +357,11 @@ nav .fas {
         margin-top: 100%;
         font-size: 16px;
     }
-
+    .about-col-1 img {
+        width: 50%;
+        border-radius: 50%;
+    
+    }
     .header-text h1 {
         font-size: 30px;
         padding-top: 10px;
@@ -367,7 +371,7 @@ nav .fas {
         font-size: 15px;
     }
     nav ul{
-        background: #cb3c3c;
+        background: #ee9f9f;
         position: fixed;
         top: 0;
         right: -200px;
@@ -423,5 +427,9 @@ nav .fas {
 .social-icons a {
     width: 60px;
     height: 20px;
+}
+#element {
+    color: turquoise;
+    font-size: 1.52rem;
 }
 }

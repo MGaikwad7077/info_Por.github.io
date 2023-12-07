@@ -20,7 +20,10 @@ html{
     background-size: cover;
     background-position: center;
 }
-
+#element {
+    color: turquoise;
+    font-size: 3rem;
+}
 .container {
     padding: 10px 5%;
 
